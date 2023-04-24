@@ -10,7 +10,10 @@
 ![Lesly's  Github Stats](https://github-readme-stats.vercel.app/api?username=leslycarrascoj&hide=contribs,issues,stars&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
 ### Wakatime Stats
-![Lesly's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr_robot&range=all_time)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 
