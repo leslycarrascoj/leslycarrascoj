@@ -1,12 +1,16 @@
 ### Hi there 👋
 
 
-### Profile Stats
+# Profile Stats
 
-## Visitors
+### Visitors
 ![Lesly's Visitor Stats](https://komarev.com/ghpvc/?username=leslycarrascoj&color=blue&style=for-the-badge&label=VIEWS)
 
+### Github Stats
+![Lesly's  Github Stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true&theme=tokyonighta)
 
+### Wakatime States
+![Lesly's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=leslycarrascoj&range=all_time)
 
 
 
