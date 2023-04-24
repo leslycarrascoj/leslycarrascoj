@@ -10,8 +10,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3 
+      with: 
+          actions/checkout Default: ${{ github.repository }}
       - uses: leslycarrascoj/leslycarrascoj@main
-        with:
+       with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
