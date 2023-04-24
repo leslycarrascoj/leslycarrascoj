@@ -4,7 +4,7 @@
 ### Profile Stats
 
 ## Visitors
-[![Lesly's Visitor Stats]https://komarev.com/ghpvc/?username=leslycarrascoj&color=blue&style=for-the-badge&label=VIEWS)]
+![Lesly's Visitor Stats](https://komarev.com/ghpvc/?username=leslycarrascoj&color=blue&style=for-the-badge&label=VIEWS)
 
 
 
