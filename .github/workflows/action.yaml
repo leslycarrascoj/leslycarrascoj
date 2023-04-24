@@ -21,7 +21,7 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-    - uses: actions/checkout@v3 
+    - uses: actions/checkout
 
     
         
