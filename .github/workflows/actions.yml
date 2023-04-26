@@ -24,4 +24,4 @@ jobs:
           LOCALE: "en"
       - uses: actions/checkout@v3 
         with: 
-          Default: ${{ github.repository }}
+          Default: leslycarrascoj/leslycarrascoj@main
