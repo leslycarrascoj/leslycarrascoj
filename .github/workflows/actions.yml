@@ -22,6 +22,4 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           LOCALE: "en"
-      - uses: actions/checkout@v3 
-        with: 
-          Default: leslycarrascoj/leslycarrascoj@main
+     
