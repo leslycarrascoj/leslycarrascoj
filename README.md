@@ -55,17 +55,16 @@ Sunday                   58 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-tmux                     45 mins             ███████████████████░░░░░░   76.81 % 
-sh                       13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -85,6 +84,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2023 18:38:41 UTC
+ Last Updated on 16/05/2023 18:38:49 UTC
 <!--END_SECTION:waka-->
 
