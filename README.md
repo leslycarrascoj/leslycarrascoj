@@ -20,8 +20,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -84,6 +82,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2024 18:34:26 UTC
+ Last Updated on 28/03/2024 18:35:37 UTC
 <!--END_SECTION:waka-->
 
