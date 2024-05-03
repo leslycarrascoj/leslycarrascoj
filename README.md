@@ -12,7 +12,7 @@
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,16 +53,21 @@ Sunday                   54 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               15 mins             ████████████░░░░░░░░░░░░░   46.98 % 
+Bash                     14 mins             ███████████░░░░░░░░░░░░░░   44.01 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+quickstart               16 mins             ████████████░░░░░░░░░░░░░   49.55 % 
+plaid-connect            15 mins             ████████████░░░░░░░░░░░░░   46.98 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,6 +87,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 18:35:23 UTC
+ Last Updated on 03/05/2024 18:36:14 UTC
 <!--END_SECTION:waka-->
 
