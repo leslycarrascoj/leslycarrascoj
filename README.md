@@ -53,16 +53,21 @@ Sunday                   54 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     24 mins             ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+TypeScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+SCSS                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+quickstart               1 hr 5 mins         ██████████████████████░░░   86.92 % 
+plaid-connect            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,6 +87,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2024 18:39:55 UTC
+ Last Updated on 16/08/2024 18:39:30 UTC
 <!--END_SECTION:waka-->
 
