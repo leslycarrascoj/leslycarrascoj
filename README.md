@@ -12,11 +12,15 @@
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -80,6 +84,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 18:46:18 UTC
+ Last Updated on 03/05/2025 18:43:35 UTC
 <!--END_SECTION:waka-->
 
