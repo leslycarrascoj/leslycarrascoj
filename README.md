@@ -20,8 +20,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -55,16 +53,19 @@ Sunday                   54 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     14 mins             ██████████████░░░░░░░░░░░   55.54 % 
+JSON                     10 mins             ███████████░░░░░░░░░░░░░░   42.26 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FinOk                    25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,6 +85,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 18:48:00 UTC
+ Last Updated on 21/06/2025 18:44:38 UTC
 <!--END_SECTION:waka-->
 
