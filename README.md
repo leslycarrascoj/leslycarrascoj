@@ -26,45 +26,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                80 commits          ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-🌃 Evening                142 commits         ████████████░░░░░░░░░░░░░   46.10 % 
-🌙 Night                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   84 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Tuesday                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Thursday                 36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Saturday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Sunday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Guatemala
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -82,6 +43,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 18:42:29 UTC
+ Last Updated on 03/11/2025 18:44:46 UTC
 <!--END_SECTION:waka-->
 
