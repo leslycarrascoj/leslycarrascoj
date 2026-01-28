@@ -12,9 +12,9 @@
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,20 +55,20 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-TypeScript               12 hrs 57 mins      █████████████████████████   99.19 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               13 hrs 52 mins      █████████████████████████   99.24 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myomeals-metrics         13 hrs 3 mins       █████████████████████████   99.95 % 
+myomeals-metrics         13 hrs 58 mins      █████████████████████████   99.95 % 
 myomeals_metrics         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -88,6 +88,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 19:02:45 UTC
+ Last Updated on 28/01/2026 18:59:39 UTC
 <!--END_SECTION:waka-->
 
