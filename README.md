@@ -12,9 +12,9 @@
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-861%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,20 +55,19 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-TypeScript               15 hrs 52 mins      █████████████████████████   99.34 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               13 hrs 45 mins      █████████████████████████   99.78 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myomeals-metrics         15 hrs 58 mins      █████████████████████████   99.95 % 
-myomeals_metrics         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+myomeals-metrics         13 hrs 45 mins      █████████████████████████   99.77 % 
+ClaimsSpecialtyProvider-d1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+myomeals_metrics         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -88,6 +87,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 19:08:37 UTC
+ Last Updated on 30/01/2026 19:06:55 UTC
 <!--END_SECTION:waka-->
 
