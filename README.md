@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,18 +55,18 @@ Sunday                   76 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-TypeScript               32 mins             ████████████████████░░░░░   78.02 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-SQL                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+TypeScript               1 hr 34 mins        ████████████████████████░   97.82 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myomeals-metrics         41 mins             █████████████████████████   100.00 % 
+myomeals-metrics         1 hr 36 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -86,6 +86,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2026 19:32:02 UTC
+ Last Updated on 26/02/2026 19:14:36 UTC
 <!--END_SECTION:waka-->
 
