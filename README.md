@@ -55,19 +55,16 @@ Sunday                   76 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-Other                    2 mins              ██████████████████░░░░░░░   72.04 % 
-TypeScript               0 secs              ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-LibreOffice              2 mins              ██████████████████░░░░░░░   72.04 % 
-VS Code                  0 secs              ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              ██████████████████░░░░░░░   72.04 % 
-myomeals-metrics         0 secs              ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -87,6 +84,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2026 19:08:05 UTC
+ Last Updated on 07/03/2026 18:55:10 UTC
 <!--END_SECTION:waka-->
 
