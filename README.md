@@ -55,16 +55,19 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               47 mins             ████████████████████████░   96.58 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             ███████████████████████░░   93.77 % 
+Unknown Editor           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+myomeals-metrics         47 mins             ████████████████████████░   96.58 % 
+myomeals_metrics         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,6 +87,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 19:45:38 UTC
+ Last Updated on 22/04/2026 19:48:08 UTC
 <!--END_SECTION:waka-->
 
