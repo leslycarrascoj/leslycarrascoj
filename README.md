@@ -12,7 +12,7 @@
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-941%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,16 +55,21 @@ Sunday                   121 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Liquid                   6 hrs 30 mins       ██████████████████░░░░░░░   70.38 % 
+JSON                     2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shopify                  8 hrs 22 mins       ███████████████████████░░   90.47 % 
+MyoMeals                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,6 +89,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leslycarrascoj/leslycarrascoj/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 20:22:51 UTC
+ Last Updated on 06/06/2026 19:52:49 UTC
 <!--END_SECTION:waka-->
 
